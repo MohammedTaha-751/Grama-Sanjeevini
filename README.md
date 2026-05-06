@@ -127,7 +127,8 @@ com.ruralhealth.gramasanjeevini
 ├── SymptomProvider.kt
 ├── MedicalNetworkProvider.kt
 └── HealthTipsScreen_3.kt
-
+```
+---
 ## 🌐 Offline-First Architecture
 - 📁 Local caching using Room Database  
 - 🔄 Background synchronization engine  
